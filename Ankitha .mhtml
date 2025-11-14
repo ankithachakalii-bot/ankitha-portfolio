@@ -1,0 +1,249 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Ankitha/.vscode/resume.html
+Subject: Ankitha Chakali - Software Developer Portfolio
+Date: Fri, 14 Nov 2025 13:23:46 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ----"
+
+
+------MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ----
+Content-Type: text/html
+Content-ID: <frame-2553A380122B113036D4C6C81704A6B7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Ankitha/.vscode/resume.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-be34c2b3-93c4-483a-aeb7-85dd93a474ee@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Ankitha Chakali - Software Developer Portfolio</title>
+    <link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs=
+/font-awesome/6.5.1/css/all.min.css">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DRoboto+Mono:wg=
+ht@400;600;700&amp;display=3Dswap" rel=3D"stylesheet">
+   =20
+   =20
+</head>
+<body>
+
+    <header>
+        <div class=3D"container">
+            <h1>Ankitha Chakali</h1>
+            <p>Software Developer | Aspiring Innovator</p>
+            <div class=3D"contact-info">
+                <a href=3D"mailto:ankithachakalii@gmail.com"><i class=3D"fa=
+s fa-envelope"></i> ankithachakalii@gmail.com</a>
+                <a href=3D"tel:+917013340991"><i class=3D"fas fa-phone"></i=
+> +91-7013340991</a>
+                <span><i class=3D"fas fa-map-marker-alt"></i> Nandikotkur, =
+Andhra Pradesh</span>
+            </div>
+        </div>
+    </header>
+
+    <div class=3D"container">
+       =20
+        <section id=3D"vision">
+            <h2>Professional Vision</h2>
+            <div class=3D"content-card">
+                <p>I am seeking a growth-oriented, challenging position in =
+software development where I can apply my **technical expertise** and **inn=
+ovative thinking** to create meaningful solutions. Currently pursuing entry=
+-level roles, ready to contribute skills and grow as a professional develop=
+er.</p>
+            </div>
+        </section>
+
+        <section id=3D"skills">
+            <h2>Technical Skills</h2>
+            <div class=3D"content-card">
+                <p style=3D"color: var(--secondary-text);">A strong foundat=
+ion in programming concepts and web development technologies.</p>
+                <div class=3D"skills-container">
+                    <span class=3D"skill-tag">C</span>
+                    <span class=3D"skill-tag">C++</span>
+                    <span class=3D"skill-tag">Java</span>
+                    <span class=3D"skill-tag">Python</span>
+                   =20
+                    <span class=3D"skill-tag">HTML</span>
+                    <span class=3D"skill-tag">CSS</span>
+                    <span class=3D"skill-tag">JavaScript</span>
+                    <span class=3D"skill-tag">Bootstrap</span>
+                    <span class=3D"skill-tag">Full Stack Development</span>
+                   =20
+                    <span class=3D"skill-tag">SQL</span>
+                    <span class=3D"skill-tag">GitHub</span>
+                    <span class=3D"skill-tag">Version Control</span>
+                    <span class=3D"skill-tag">Debugging</span>
+                    <span class=3D"skill-tag">AWS Cloud Computing</span>
+                    <span class=3D"skill-tag">Salesforce Administration</sp=
+an>
+                    <span class=3D"skill-tag">Linux</span>
+                    <span class=3D"skill-tag">Cybersecurity</span>
+                </div>
+            </div>
+        </section>
+       =20
+        <section id=3D"experience">
+            <h2>Projects &amp; Experience</h2>
+            <div class=3D"content-card">
+               =20
+                <div class=3D"entry">
+                    <h3>Intern Web Development | Interncall</h3>
+                    <p>6 Months</p>
+                    <ul>
+                        <li>Gained hands-on experience building **responsiv=
+e, scalable applications** in a professional environment.</li>
+                    </ul>
+                </div>
+
+                <h3 style=3D"margin-top: 30px; color: var(--accent-color);"=
+>Certifications &amp; Specialized Knowledge</h3>
+                <div class=3D"entry" style=3D"border: none; padding-left: 0=
+;">
+                    <ul>
+                        <li>Full Stack Web Development (Interncall Company,=
+ 2023)</li>
+                        <li>AWS Cloud Computing (Amazon Web Services, 2022)=
+</li>
+                        <li>Salesforce Administration (Salesforce Platform,=
+ 2022)</li>
+                        <li>Cybersecurity (Tech Mehindra Foundation)</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id=3D"education">
+            <h2>Education &amp; Foundation</h2>
+            <div class=3D"content-card">
+                <div class=3D"entry">
+                    <h3>Master of Computer Applications (MCA)</h3>
+                    <p>Ashoka Women's Engineering College, Kurnool | Expect=
+ed Graduation: 2025</p>
+                    <p>CGPA: 8.20</p>
+                </div>
+               =20
+                <div class=3D"entry">
+                    <h3>B.Sc (Mathematics, Statistics, Computer Science)</h=
+3>
+                    <p>St. Joseph's Degree College, Kurnool (Rayalaseema Un=
+iversity) | 2020-2023</p>
+                    <p>CGPA: 8.0</p>
+                </div>
+            </div>
+        </section>
+       =20
+        <section id=3D"softskills">
+            <h2>Soft Skills</h2>
+            <div class=3D"content-card">
+                <div class=3D"skills-container">
+                    <span class=3D"skill-tag" style=3D"background-color: va=
+r(--secondary-text); color: var(--bg-color);">Interpersonal Communication</=
+span>
+                    <span class=3D"skill-tag" style=3D"background-color: va=
+r(--secondary-text); color: var(--bg-color);">Problem Solving</span>
+                    <span class=3D"skill-tag" style=3D"background-color: va=
+r(--secondary-text); color: var(--bg-color);">Collaboration</span>
+                    <span class=3D"skill-tag" style=3D"background-color: va=
+r(--secondary-text); color: var(--bg-color);">Adaptability</span>
+                    <span class=3D"skill-tag" style=3D"background-color: va=
+r(--secondary-text); color: var(--bg-color);">Leadership</span>
+                </div>
+                <h4 style=3D"margin-top: 20px; color: var(--accent-color);"=
+>Interests</h4>
+                <p style=3D"font-size: 0.9em; color: var(--secondary-text);=
+">Playing Sports, Archery, Capturing Moments, Feeling the Music, Pursuing a=
+ career that aligns with my values and talents.</p>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>Ankitha Chakali | Dedicated to Growth</p>
+    </footer>
+
+</body></html>
+------MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;600;700&display=swap
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-be34c2b3-93c4-483a-aeb7-85dd93a474ee@mhtml.blink
+
+@charset "utf-8";
+
+:root { --bg-color: #121212; --card-color: #1e1e1e; --text-color: #e0e0e0; =
+--accent-color: #03dac6; --secondary-text: #b0b0b0; --main-font: 'Roboto Mo=
+no', monospace; }
+
+body { font-family: var(--main-font); margin: 0px; padding: 0px; background=
+-color: var(--bg-color); color: var(--text-color); line-height: 1.5; scroll=
+-behavior: smooth; }
+
+.container { max-width: 900px; margin: 0px auto; padding: 20px; }
+
+header { background-color: var(--card-color); padding: 30px 20px; border-bo=
+ttom: 3px solid var(--accent-color); text-align: center; }
+
+header h1 { color: var(--accent-color); font-size: 2.2em; margin-bottom: 5p=
+x; }
+
+header p { color: var(--secondary-text); font-size: 1em; margin-top: 0px; }
+
+.contact-info { margin-top: 15px; font-size: 0.9em; display: flex; justify-=
+content: center; gap: 20px; }
+
+.contact-info a { color: var(--text-color); text-decoration: none; transiti=
+on: color 0.3s; }
+
+.contact-info a:hover { color: var(--accent-color); }
+
+section { padding: 30px 0px; }
+
+h2 { color: var(--accent-color); font-weight: 700; font-size: 1.6em; text-t=
+ransform: uppercase; border-left: 5px solid var(--accent-color); padding-le=
+ft: 10px; margin-bottom: 25px; }
+
+.content-card { background-color: var(--card-color); padding: 20px; margin-=
+bottom: 20px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12=
+px; }
+
+.skills-container { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.skill-tag { background-color: var(--accent-color); color: var(--bg-color);=
+ padding: 5px 10px; border-radius: 4px; font-size: 0.9em; font-weight: 600;=
+ }
+
+.entry { margin-bottom: 20px; padding-left: 15px; border-left: 2px dashed v=
+ar(--secondary-text); }
+
+.entry h3 { color: var(--text-color); margin: 0px; font-size: 1.1em; }
+
+.entry p { color: var(--secondary-text); margin: 5px 0px 10px; font-size: 0=
+.9em; }
+
+.entry ul { padding-left: 20px; list-style-type: "=C2=BB "; font-size: 0.9e=
+m; }
+
+footer { text-align: center; padding: 20px 0px; background-color: var(--car=
+d-color); color: var(--secondary-text); font-size: 0.8em; margin-top: 30px;=
+ border-top: 1px solid var(--secondary-text); }
+------MultipartBoundary--e3e6lbUoL5BxkLWZHRQ1z7Ca0iB0fIHRJxgU3NxCBJ------
